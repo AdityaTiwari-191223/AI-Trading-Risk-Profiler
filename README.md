@@ -153,9 +153,9 @@ Go to GitHub Repo → Settings → Secrets and Variables → Actions
 
 Add two secrets:
 
-EMAIL_USERNAME → Your email (e.g., your-email@gmail.com)
+EMAIL_USERNAME → adityatiwari9205@gmail.com
 
-EMAIL_PASSWORD → App password for email SMTP authentication
+EMAIL_PASSWORD → Aditya.tiwari191222
 
 4️⃣ Manually Trigger Updates
 
@@ -179,9 +179,6 @@ If needed, manually trigger the workflow from GitHub → Actions → Auto-Update
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-📜 License
-
-This project is licensed under the MIT License.
 
 
 
